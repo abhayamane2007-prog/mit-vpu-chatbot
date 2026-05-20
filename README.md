@@ -1,4 +1,4 @@
-# mit-vpu-chatbot
+
 # MIT VPU Chatbot
 
 ## Project Overview
@@ -27,9 +27,9 @@ The chatbot helps students by answering queries related to:
 - User-friendly interaction
 
 ## Team Members
-- Member 1
-- Member 2
-- Member 3
+- Abhay Amane
+- Rahule Dhale
+- Shruti Kale
 
 ## Project Files
 - `Mit_vpu_chatbot.zip` → Exported Dialogflow chatbot project
