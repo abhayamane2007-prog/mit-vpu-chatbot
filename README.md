@@ -17,7 +17,7 @@ The chatbot helps students by answering queries related to:
 - Dialogflow
 - Natural Language Processing (NLP)
 - Telegram Bot Integration
-- GitHub
+
 
 ## Features
 - Automated student support
