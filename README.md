@@ -51,7 +51,7 @@ The chatbot helps students by answering queries related to:
 - Response Development
 - GitHub Documentation
 
-### Rahule Dhale
+### Rahul Dhale
 - Data Collection
 - Knowledge Base Preparation
 
